@@ -1,1 +1,2 @@
-1
+ivshmem.c是ivshmem设备驱动代码通过makefile文件编译出ivshmem.ko设备驱动内核模块
+Makfile是编译文件
