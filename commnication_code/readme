@@ -1,3 +1,1 @@
-rev.c是接收方代码
-send.c是发送方代码
-my_queue.h是头文件代码，包含了一些函数定义。
+This directory contains the test sample code. send.c is the code used to send data, and rev.c is the code used to receive data.
