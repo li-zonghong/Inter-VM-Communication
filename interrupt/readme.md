@@ -1,1 +1,1 @@
-ivshmem.c and uio.c are interrupt implementations.Both adopt the msi-x interrupt mode. To enable the virtual machine, you need to first enable the server of qemu, that is, use the command:** sudo ivshmem-server -S /tmp/nahanni  -m /dev/shm/ -l 2M **
+ivshmem.c and uio.c are interrupt implementations.Both adopt the msi-x interrupt mode. To enable the virtual machine, you need to first enable the server of qemu, that is, use the command: ** sudo ivshmem-server -S /tmp/nahanni  -m /dev/shm/ -l 2M ** 
